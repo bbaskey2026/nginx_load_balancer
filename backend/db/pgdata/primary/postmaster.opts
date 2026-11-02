@@ -1,0 +1,1 @@
+C:/Program Files/PostgreSQL/17/bin/postgres.exe "-D" "C:/Users/bhima/Desktop/nodejs-nginx-project/backend/db/pgdata/primary" "-p" "5440"

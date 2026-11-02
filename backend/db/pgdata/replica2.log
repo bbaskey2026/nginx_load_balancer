@@ -1,0 +1,11 @@
+2026-11-02 22:56:53.594 IST [15528] LOG:  starting PostgreSQL 17.10 on x86_64-windows, compiled by msvc-19.44.35227, 64-bit
+2026-11-02 22:56:53.628 IST [15528] LOG:  listening on IPv6 address "::1", port 5442
+2026-11-02 22:56:53.628 IST [15528] LOG:  listening on IPv4 address "127.0.0.1", port 5442
+2026-11-02 22:56:54.079 IST [14344] LOG:  database system was interrupted; last known up at 2026-11-02 22:56:39 IST
+2026-11-02 22:56:55.994 IST [14344] LOG:  starting backup recovery with redo LSN 0/4000028, checkpoint LSN 0/4000080, on timeline ID 1
+2026-11-02 22:56:55.995 IST [14344] LOG:  entering standby mode
+2026-11-02 22:56:56.015 IST [14344] LOG:  redo starts at 0/4000028
+2026-11-02 22:56:56.017 IST [14344] LOG:  completed backup recovery with redo LSN 0/4000028 and end LSN 0/4000120
+2026-11-02 22:56:56.018 IST [14344] LOG:  consistent recovery state reached at 0/4000120
+2026-11-02 22:56:56.019 IST [15528] LOG:  database system is ready to accept read-only connections
+2026-11-02 22:56:56.546 IST [16428] LOG:  started streaming WAL from primary at 0/5000000 on timeline 1
